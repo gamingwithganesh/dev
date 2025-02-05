@@ -17,7 +17,7 @@ const Services = () => {
       <div className="container">
         <Heading
           title="Website Development And Maintenance"
-          text="DevLens unlocks the potential of web applications"
+          text="ZinTech unlocks the potential of web applications"
         />
 
         <div className="relative">

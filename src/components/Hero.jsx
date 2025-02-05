@@ -26,7 +26,7 @@ const Hero = () => {
           <h1 className="h1 mb-6">
           Transforming Ideas Into Reality&nbsp;With&nbsp; {` `}
             <span className="inline-block relative">
-              DevLens{" "}
+              ZInTech{" "}
               <img
                 src={curve}
                 className="absolute top-full left-0 w-full xl:-mt-2"
@@ -37,11 +37,11 @@ const Hero = () => {
             </span>
           </h1>
           <p className="body-1 max-w-3xl mx-auto mb-6 text-n-2 lg:mb-8">
-          Devlens focus on web development, digital marketing, and IT consulting, we provide customized, client-centric services that drive business growth.
+          Zintech focus on web development, digital marketing, and IT consulting, we provide customized, client-centric services that drive business growth.
           </p>
-          <Button href="/pricing" white>
+          {/* <Button href="/pricing" white>
             Get started
-          </Button>
+          </Button> */}
         </div>
         <div className="relative max-w-[23rem] mx-auto md:max-w-5xl xl:mb-24">
           <div className="relative z-1 p-0.5 rounded-2xl bg-conic-gradient">

@@ -225,7 +225,7 @@ export const pricing = [
   },
   {
     id: "1",
-    title: "For Websait",
+    title: "For Website",
     description: "Starting at",
     price: "5,000",
     features: [

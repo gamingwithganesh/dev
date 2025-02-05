@@ -28,7 +28,7 @@ const Pricing = () => {
         </div>
 
         <Heading
-          tag="Get started with DevLens"
+          tag="Get started with Z in Tech"
           title="here, some plans"
         />
 
