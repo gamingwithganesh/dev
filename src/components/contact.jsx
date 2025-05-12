@@ -1,8 +1,7 @@
 import React from 'react'
 import Button from './Button'
 
-export default function
-    () {
+export default function contact () {
     return (
         <div class="w-max-sm mx-auto mt-10 mb-10">
             <form class="max-w-sm mx-auto">

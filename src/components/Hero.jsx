@@ -95,6 +95,7 @@ const Hero = () => {
         <Members/>
 
         {/* <CompanyLogos className="hidden relative z-10 mt-20 lg:block" /> */}
+        {/* heloo */}
 
       </div>
 
