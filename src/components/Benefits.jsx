@@ -11,7 +11,7 @@ const Benefits = () => {
       <div className="container relative z-2">
         <Heading
           className="md:max-w-md lg:max-w-2xl"
-          title="Work Smarter, Not Harder with Z InTech"
+          title="Work Smarter, Not Harder with Z INTECH"
         />
 
         <div className="flex flex-wrap gap-10 mb-10">
@@ -34,7 +34,7 @@ const Benefits = () => {
                     alt={item.title}
                   />
                   <p className="ml-auto font-code text-xs font-bold text-n-1 uppercase tracking-wider">
-                    Z in Tech
+                    Z INTECH
                   </p>
                   <Arrow />
                 </div>

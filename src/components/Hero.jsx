@@ -26,7 +26,7 @@ const Hero = () => {
           <h1 className="h1 mb-6">
           Transforming Ideas Into Reality&nbsp;With&nbsp; {` `}
             <span className="inline-block relative">
-              Z InTech{" "}
+              Z INTECH{" "}
               <img
                 src={curve}
                 className="absolute top-full left-0 w-full xl:-mt-2"
@@ -37,7 +37,7 @@ const Hero = () => {
             </span>
           </h1>
           <p className="body-1 max-w-3xl mx-auto mb-6 text-n-2 lg:mb-8">
-          Z InTech focus on web development, digital marketing, and IT consulting, we provide customized, client-centric services that drive business growth.
+          Z INTECH focus on web development, digital marketing, and IT consulting, we provide customized, client-centric services that drive business growth.
           </p>
           {/* <Button href="/pricing" white>
             Get started

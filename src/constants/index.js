@@ -40,7 +40,7 @@ import {
 export const navigation = [
   {
     id: "0",
-    title: "Features",
+    title: "service",
     url: "#features",
   },
   {
@@ -50,26 +50,26 @@ export const navigation = [
   },
   {
     id: "2",
-    title: "How to use",
-    url: "#how-to-use",
-  },
-  {
-    id: "3",
-    title: "Roadmap",
+    title: "Projects",
     url: "#roadmap",
   },
-  {
-    id: "4",
-    title: "New account",
-    url: "#signup",
-    onlyMobile: true,
-  },
-  {
-    id: "5",
-    title: "Sign in",
-    url: "#login",
-    onlyMobile: true,
-  },
+  // {
+  //   id: "3",
+  //   title: "Roadmap",
+  //   url: "#roadmap",
+  // },
+  // {
+  //   id: "4",
+  //   title: "New account",
+  //   url: "#signup",
+  //   onlyMobile: true,
+  // },
+  // {
+  //   id: "5",
+  //   title: "Sign in",
+  //   url: "#login",
+  //   onlyMobile: true,
+  // },
 ];
 
 export const heroIcons = [homeSmile, file02, searchMd, plusSquare];
@@ -333,3 +333,23 @@ export const socials = [
   },
 ];
 
+export const project = [
+  {
+    id: "0",
+    img: "/p1.jpg",
+    title: "Furniture Shop Website",
+    url: "https://furniz-intech.netlify.app/",
+  },
+  {
+    id: "1",
+    img: "/p2.jpg",
+    title: "Pet Shop Website",
+    url: "https://waggyz-intech.netlify.app/",
+  },
+  {
+    id: "2",
+    img: "/p3.jpg",
+    title: "Mobile Shop Website",
+    url: "https://ministorez-intech.netlify.app/",
+  },
+]
